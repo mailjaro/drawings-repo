@@ -30,3 +30,10 @@ Her er en oversikt over noen tegninger.
 ## Den spisse ende
 
 ![](images/renhold.png)
+
+
+## 📚 Andre hefter
+
+For andre hefter, se:
+
+📘 [Min startside på GitHub](https://mailjaro.github.io/)
