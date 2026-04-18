@@ -31,6 +31,9 @@ Her er en oversikt over noen tegninger.
 
 ![](images/renhold.png)
 
+## Nedrykkskandidat en action
+
+![](images/malawi.png)
 
 ## 📚 Andre hefter
 
