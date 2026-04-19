@@ -35,6 +35,10 @@ Her er en oversikt over noen tegninger.
 
 ![](images/malawi-3.png)
 
+## En time hos psykolog
+
+![](images/psyko-1.png)
+
 ## I all beskjedenhet
 
 ![](images/argue-2.png)
