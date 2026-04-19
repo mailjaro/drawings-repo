@@ -33,7 +33,7 @@ Her er en oversikt over noen tegninger.
 
 ## Nedrykkskandidat in action
 
-![](images/malawi-2.png)
+![](images/malawi-3.png)
 
 ## 📚 Andre hefter
 
