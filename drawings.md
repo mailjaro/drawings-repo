@@ -19,7 +19,7 @@ Her er en oversikt over noen tegninger.
 ## En plandag
 ![](images/plandag.png)
 
-## Skutt bli den som ...
+## Skutt blir den som ...
 
 ![](images/skutt_blir_den.png)
 
