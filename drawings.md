@@ -43,6 +43,10 @@ Her er en oversikt over noen tegninger.
 
 ![](images/argue-2.png)
 
+## HJELP!
+
+![](images/arcitechts.png)
+
 ## 📚 Andre hefter
 
 For andre hefter, se:
